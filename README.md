@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bitrefill-bitrefill-mcp-server-badge.jpg)](https://mseep.ai/app/bitrefill-bitrefill-mcp-server)
+
 # Bitrefill MCP Server
 [![smithery badge](https://smithery.ai/badge/@bitrefill/bitrefill-mcp-server)](https://smithery.ai/server/@bitrefill/bitrefill-mcp-server)
 
